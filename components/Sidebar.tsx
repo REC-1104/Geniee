@@ -51,11 +51,6 @@ const routes = [
         icon : Music,
         href : "/music",
         color : "text-emerald-700"
-    },
-    {
-        label : "Settings",
-        icon : Settings,
-        href : "/settings",
     }
 ]
 
