@@ -11,7 +11,7 @@ const Loader = () => {
                  />
             </div>
             <p className="text-sm text-muted-foreground">
-                Genie is thinking...
+            ImagiCraft is thinking...
             </p>
         </div>
      );
